@@ -1,1 +1,1 @@
-module github.com/crowin/golang-course
+module github.com/crowin/golang-course/cache
