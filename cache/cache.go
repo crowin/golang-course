@@ -1,4 +1,4 @@
-package golang-course/cache
+package cache
 
 import (
 	"time"
