@@ -1,3 +1,1 @@
-module cache
-
-go 1.20
+module https://github.com/crowin/golang-course
